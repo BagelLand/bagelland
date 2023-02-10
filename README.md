@@ -1,8 +1,8 @@
-# Open Source Image Host
+# BagelLand | Image Hosting
 
 ## Overview
 
-This project is an open source image hosting platform that utilizes the popular screenshot and file sharing tool ShareX.
+This project is an image hosting platform that utilizes the popular screenshot and file sharing tool ShareX.
 
 ## Features
 
